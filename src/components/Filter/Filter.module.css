@@ -1,0 +1,13 @@
+.filterBox {
+  display: flex;
+  text-align: center;
+  align-items: baseline;
+}
+
+.filterTitle {
+  margin-right: 15px;
+}
+.filterInput {
+  width: 24%;
+  height: 30px;
+}

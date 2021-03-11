@@ -1,0 +1,14 @@
+.flex {
+  display: flex;
+  padding: 15px 15px;
+  border: 1px solid black;
+
+  margin-bottom: 10px;
+  text-align: left;
+  width: 35%;
+}
+
+.number {
+  margin-right: 25px;
+  margin-left: 25px;
+}
